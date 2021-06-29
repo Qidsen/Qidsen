@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me **yaros1406@gmail.com**
+<br />
 (Use dark theme to find my socials ;)
 
 <a href="https://www.linkedin.com/in/ярослав-вовненко-357055176/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
