@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Qidsen</h1>
-<h3 align="center">A trainee of ProCoders</h3>
+<h1>Hi 👋, I'm Qidsen</h1>
+<h3>A trainee of ProCoders</h3>
 
-- 🌱 I’m currently learning **Vue.js**
-- 📫 How to reach me **yaros1406@gmail.com**
+🌱 I’m currently learning **Vue.js**
+📫 How to reach me **yaros1406@gmail.com**
 <br />
 (Use dark theme to find my socials ;)
 
