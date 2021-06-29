@@ -25,4 +25,6 @@
 <br/>
 ---
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Qidsen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Qidsen?tab=repositories)
+[![Qidsen's github stats]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qidsen&show_icons=true&locale=en&layout=compact" alt="qidsen" /></p>
+(https://github-readme-stats.vercel.app/api?username=Qidsen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Qidsen?tab=repositories)
