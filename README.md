@@ -1,4 +1,5 @@
 ## Hello I'm Yaroslav!
+<h3 align="center">A trainee of ProCoders</h3>
 (Use dark theme to find my socials ;)
 
 <a href="https://www.linkedin.com/in/ярослав-вовненко-357055176/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
