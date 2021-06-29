@@ -49,7 +49,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tyfw6qtf0z88z6o9b323zoyk5&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
 
