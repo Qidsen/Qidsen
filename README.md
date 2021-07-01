@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Qidsen</h1>
+<h1>Hi 👋, I'm Yaroslav</h1>
 <h3>A trainee of ProCoders</h3>
 
 - 🌱 I’m currently learning **Vue.js**
