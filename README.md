@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yaroslav</h1>
-<h3>A trainee of ProCoders</h3>
+<h3>A Junior Vue.JS Developer of ProCoders</h3>
 
 - 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me **yaros1406@gmail.com**
